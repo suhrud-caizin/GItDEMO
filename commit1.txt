@@ -8,3 +8,7 @@ commit 3 line 1 from master
 
 
 changes from f4
+
+
+new commit 1 in f4
+new commit 2 in f4
